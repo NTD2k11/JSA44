@@ -1,0 +1,33 @@
+
+.box-1{
+    display: flex;
+    justify-content: space-between;
+}
+.box1{
+    height: 300px;
+    width: 300px;
+    background-color: gray;
+}
+.box1-1{
+    border-radius: 100px;
+}
+.box-2{
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-between;
+}
+.box2{
+    height: 300px;
+    width: 300px;
+    background-color: gray;
+}
+.box-3{
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-between;
+}
+.box3{
+    height: 300px;
+    width: 300px;
+    background-color: gray;
+}
