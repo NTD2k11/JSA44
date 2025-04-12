@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+.all{
+    display: flex;
+    justify-content: space-around;
+}
+.box img{
+    width: 200px;
+    height: 240px;
+    margin-left: 15%;
+    margin-top: 2%;
+}
+.box{
+    width: 280px;
+    height: 500px;
+    margin-bottom: 1%;
+    margin-top: 5%;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+.box .cost{
+    margin-top: 2%;
+    display: flex;
+
+}
+.box .cost .money1{
+    font-weight: bold;
+    color: red;
+    font-size:larger;
+}
+.box .cost .money2{
+    margin-left: 1%;
+    text-decoration-line:line-through;
+    font-weight: bold;
+    color: gray;
+    font-size:larger;
+    text-align: center;
+}
+.box .cost2{
+    display: flex;
+    margin-top: 2%;
+}
+.box .cost2 p{
+    font-weight: bold;
+    color: red;
+    font-size:larger;
+    text-align: center;
+}
+.box .cost2 h5{
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.box .cost3{
+    display: flex;
+    margin-top: 2%;
+}
+.box .cost3 h5{
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+
+}
+.box .cost3 p{
+    font-weight: bold;
+    color: red;
+    font-size:larger;
+    text-align: center;
+}
+.box .ship{
+    border: 1px solid gray;
+    border-radius: 10px;
+    height: 50px;
+    width: 260px;
+    display: flex;
+    margin-left: 2%;
+    align-items: center;
+}
+.box .ship p{
+    color: rgb(53, 53, 53);
+}
+.box .comment{
+    display: flex;
+    margin-top: 2%;
+    justify-content: space-between;
+
+}
+.box .comment p{
+    font-size: x-large;
+    color:rgb(255, 192, 4);
+    
+}
+.box .comment h5{
+     text-align: center;
+}
+.box .comment i{
+    color: red;
+}
