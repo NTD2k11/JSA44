@@ -26,7 +26,7 @@
 
         // // 3. khai báo biến trong JS:
         // // biến là đại diện cho 1 trường dữ liệu nào đó và nó sẽ giúp ng đọc dễ hiểu hơn
-        // // công thức: let/const/vả tên_biến = giá trị nào đó
+        // // công thức: let/const/var tên_biến = giá trị nào đó
         // // các ký tự để lhai báo biến là let, var, const
         // let address = "viet nam"
         // // Update giá trị của biến
