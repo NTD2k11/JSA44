@@ -9,4 +9,4 @@ for (let i = 0; i < students.length; i++) {
         hs_tren_8.push(students[i].name);
     }
 }
-console.log("Học sinh điểm trên 8: " + hs_tren_8);
+console.log(hs_tren_8);
